@@ -11,7 +11,7 @@ If you'd like to check out these projects, click on the images below! They could
 [![Don't Press the Button](https://cdn2.scratch.mit.edu/get_image/project/66996900_144x108.png)](https://scratch.mit.edu/projects/66996900/)
 
 See the rest of my Scratch projects [here](https://scratch.mit.edu/users/timhortonsyo/projects/).
-
+<!-- 
 ## Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -19,4 +19,4 @@ See the rest of my Scratch projects [here](https://scratch.mit.edu/users/timhort
 </a>
 <a href="https://github.com/hectickiwi/github-readme-stats">
   <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hectickiwi&layout=compact&theme=slateorange" />
-</a>
+</a> -->
