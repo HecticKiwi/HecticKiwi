@@ -14,6 +14,9 @@ See the rest of my Scratch projects [here](https://scratch.mit.edu/users/timhort
 
 ## Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hectickiwi&show_icons=true&theme=slateorange)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hectickiwi&theme=slateorange)](https://github.com/hectickiwi/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img  src="https://github-readme-stats.vercel.app/api?username=hectickiwi&show_icons=true&theme=slateorange" />
+</a>
+<a href="https://github.com/hectickiwi/github-readme-stats">
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hectickiwi&layout=compact&theme=slateorange" />
+</a>
