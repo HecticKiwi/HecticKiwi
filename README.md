@@ -1,6 +1,6 @@
 ## Hello, I'm Danny Duong!
 
-I'm a second-year Software Enginering student at the University of Calgary.
+I'm a third-year Software Enginering student at the University of Calgary.
 
 I was introduced to programming with Scratch, a simple block-based visual programming language. I've since made a few neat projects, such as re-makes of gamemodes from the popular rhythm game "osu!". I'm also fond of my older project "Don't Press the Button".
 
