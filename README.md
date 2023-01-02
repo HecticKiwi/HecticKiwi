@@ -2,7 +2,7 @@
 
 I'm a third-year Software Enginering student at the University of Calgary.
 
-I was introduced to programming with Scratch, a simple block-based visual programming language. I've since made a few neat projects, such as re-makes of gamemodes from the popular rhythm game "osu!". I'm also fond of my older project "Don't Press the Button".
+I was introduced to programming with [Scratch](https://scratch.mit.edu/), a simple block-based visual programming language. I've since made a few neat projects, such as re-makes of gamemodes from the popular rhythm game "osu!". I'm also fond of my older project "Don't Press the Button".
 
 If you'd like to check out these projects, click on the images below! They could use the extra exposure ;)
 
